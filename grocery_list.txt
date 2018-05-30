@@ -1,4 +1,3 @@
-toothpaste
 salad dressing
 white wine
 lunch meats
@@ -8,4 +7,9 @@ streamers
 chips
 queso
 paper plates
-
+salsa
+guacamole
+whiskey
+shot glasses
+husband
+coffee
